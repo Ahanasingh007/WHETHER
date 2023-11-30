@@ -20,7 +20,7 @@ Voila! Get instant access to the temperature, wind speed, and cloud cover inform
 Installation
 To run the WeatherApp locally, follow these steps:
 
-git clone https://github.com/your-username/WeatherApp.git
+git clone https://github.com/your-username/WeatherApp.git](https://github.com/Ahanasingh007/WHETHER.git
 cd WeatherApp
 npm install
 npm start
